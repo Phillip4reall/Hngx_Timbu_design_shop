@@ -1,16 +1,21 @@
-# hngx_timbu_shop
+# HNGx Timbu_shop
 
-A new Flutter project.
+An app that implements the timbu API. this app contains product page,checkout, cart etc
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Test app on Appertizer
+https://appetize.io/app/b_u7ydycjuivgazuthhqnng4l2fu
+## Download app
+https://drive.google.com/file/d/1-EOLqnmUWi6uMdBJ5a-hoMG8oitcnH2f/view
+## Step to run app
+1. git clone the app
+2. install at least, flutter version - 3.22.2
+3.  run flutter pub get to add dependencies 
+4. visit the timbu website to create an account
+5. create retail business
+6. create and add products
+7. get your APPID, ORGANISATIONID and APIKEY
+8. in the constant.dart add your details
+organizationid = insert your details
+appid =insert your details
+apikey =insert your details
+## images
